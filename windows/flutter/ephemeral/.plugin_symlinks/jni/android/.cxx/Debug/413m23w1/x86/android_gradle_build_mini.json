@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ronal\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\jni-1.0.0\\src\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\ronal\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ronal\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\jni-1.0.0\\android\\.cxx\\Debug\\413m23w1\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\ronal\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ronal\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\jni-1.0.0\\android\\.cxx\\Debug\\413m23w1\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "jni::@6890427a1f51a3e7e1df": {
+      "artifactName": "jni",
+      "abi": "x86",
+      "output": "C:\\Users\\ronal\\santidad\\AppMovilPubli\\build\\jni\\intermediates\\cxx\\Debug\\413m23w1\\obj\\x86\\libdartjni.so",
+      "runtimeFiles": []
+    }
+  }
+}

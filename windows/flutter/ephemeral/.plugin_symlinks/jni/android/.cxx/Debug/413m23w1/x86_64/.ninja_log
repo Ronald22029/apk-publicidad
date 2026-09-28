@@ -1,0 +1,5 @@
+# ninja log v5
+1	116	8019837088703761	CMakeFiles/jni.dir/include/dart_api_dl.c.o	c3b31d6895d2ec71
+7	168	8019837089253440	CMakeFiles/jni.dir/dartjni.c.o	9194dd18df9a53ce
+13	316	8019837090702670	CMakeFiles/jni.dir/third_party/global_jni_env.c.o	53528d363c154e86
+316	478	8019837092399327	C:/Users/ronal/santidad/AppMovilPubli/build/jni/intermediates/cxx/Debug/413m23w1/obj/x86_64/libdartjni.so	332867cc33663b30
